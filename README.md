@@ -36,7 +36,7 @@ impacted home prices over the last 20 years[2000-2020].
 * MORTGAGE30US
 
 
-![demo](./images/mor.jpg)
+![mor](./images/mor.jpg)
 
 #### Health of the economy
 * GDP                                  
