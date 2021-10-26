@@ -47,7 +47,7 @@ impacted home prices over the last 20 years[2000-2020].
 * unrate_construction -  Unemployment rate in construction industry
 
 
-![demo](./images/eco.jpg)
+![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/eco.JPG)
 
 #### Construction Industry
 * employees_construction - Number of employees in construction industry
