@@ -13,7 +13,7 @@ impacted home prices over the last 20 years[2000-2020].
 ## Features which can impact US home prices [MECE format]
 
 
-![Task-1 submission](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/images/task1.png)
+![Task-1 submission](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/task1.png)
   
 
  
@@ -26,7 +26,7 @@ impacted home prices over the last 20 years[2000-2020].
 * average expenditure 45-54 
 * avg-expenditure-55-64
 
-![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/images/demo.jpg)
+![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/demo.jpg)
 
 #### Mortagages
 [HCAI - Housing Credit availability index](https://www.urban.org/policy-centers/housing-finance-policy-center/projects/housing-credit-availability-index)
