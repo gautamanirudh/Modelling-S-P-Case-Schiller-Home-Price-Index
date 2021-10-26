@@ -56,7 +56,7 @@ impacted home prices over the last 20 years[2000-2020].
 * producer_price_index_concrete_brick
 
 
-![demo](./images/cons.jpg)
+![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/cons.JPG)
 
 #### Housing industry
 * houses-for-sale-to-sold - Number of houses for sale vs number of houses that got sold
@@ -65,14 +65,15 @@ impacted home prices over the last 20 years[2000-2020].
 * retail_sales_home_furnishing_stores  - Sales of home furnishing stores
 
 
-![demo](./images/hou.jpg)
+![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/hou.JPG)
 
 #### Infrastructure and permits
 * nonresidential_const_val - Total value of residential construction(monthly)
 * permits - Building permits                              
 
 
-![demo](./images/inf.jpg)
+![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/inf.JPG)
+
 
 **Some of the features are in annual and quaterly frequency, we have converted them into monthly frequency by assuming equal distribution of change of feature value during that period.**
 
@@ -87,9 +88,9 @@ impacted home prices over the last 20 years[2000-2020].
 
 ### Feature selection
 * We have used Lasso regression, with alpha = 0.014 for feature selection
-![demo](./images/lasso1.jpg)
-![demo](./images/lasso2.jpg)
-![demo](./images/lasso3.jpg)
+![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/lasso1.JPG)
+![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/lasso2.JPG)
+![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/lasso3.JPG)
 
 **Features with zero coefficients (eliminated)**
 
@@ -152,7 +153,8 @@ HCAI_GOVT                             **-4.522580**<br>
 * A Lasso regression with a alpha 0.014 is used to model the S&P Case-Schiller Home Price Index with the above features
 
 
-![demo](./images/prediction-observed.jpg)
+![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/prediction-observed.JPG)
+
 * **Metrics**
  MSE = 35.23196017633148<br>
 RMSE = 5.935651621880404<br>
