@@ -26,7 +26,7 @@ impacted home prices over the last 20 years[2000-2020].
 * average expenditure 45-54 
 * avg-expenditure-55-64
 
-![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/demo.jpg)
+![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/demo.JPG)
 
 #### Mortagages
 [HCAI - Housing Credit availability index](https://www.urban.org/policy-centers/housing-finance-policy-center/projects/housing-credit-availability-index)
@@ -36,7 +36,7 @@ impacted home prices over the last 20 years[2000-2020].
 * MORTGAGE30US
 
 
-![mor](./images/mor.jpg)
+![mor](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/mor.JPG)
 
 #### Health of the economy
 * GDP                                  
@@ -153,7 +153,7 @@ HCAI_GOVT                             **-4.522580**<br>
 * A Lasso regression with a alpha 0.014 is used to model the S&P Case-Schiller Home Price Index with the above features
 
 
-![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/prediction-observed.JPG)
+![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/prediction-observed.jpg)
 
 * **Metrics**
  MSE = 35.23196017633148<br>
