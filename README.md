@@ -82,7 +82,8 @@ impacted home prices over the last 20 years[2000-2020].
 
 * Some of the features are not linearly correlated with the target, but derivative of these features are influencing the prices.
 * To capture such derivates, we have taken cumulative sum, rolling sum (mostly 12 months), rate of change (past 12 months) and trend (introduced a categorical variable, "UP" for uptrend and "DOWN" for downtrend ) 
-![demo](./images/inf.jpg)
+![demo](https://github.com/gautamanirudh/Modelling-S-P-Case-Schiller-Home-Price-Index/blob/main/images/inf.JPG)
+<br>
 <i>The variable <b>permits</b> is not linearly correlated with the target variable, but its derivate, (cumulative sum) has a correlation coefficient of 0.66 </i>
 **-- Average length of time from start to completion of new privately owned residential buildings in the U.S is roungly 8 - 12 months , hence we have taken window size of 12 months**
 
